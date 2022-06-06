@@ -1,0 +1,4 @@
+In this first project I will be familiarizing with Tensorflow as well as with githubs interface.
+I will be using tensorflow.keras build-in functions in order to create a really basic neural network to predict the result for a X float number.
+Test data will be two arrays using numpys libraries.
+

@@ -8,4 +8,4 @@ ys = np.array([-3.0, -1.0, 1.0, 3.0, 5.0, 7.0], dtype=float)
 
 model = tf.keras.Sequential([keras.layers.Dense(units=1 ,input_shape=[1])])
 model.compile(optimizer='sgd',loss='mean_squared_error')
-model.fit(xs,ys,epochs=30)
+model.fit(xs,ys,epochs=500)

@@ -20,3 +20,5 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.Dense(128,activation='relu'),
     tf.keras.layers.Dense(10,activation='softmax')
 )
+
+#https://bit.ly/2UGa7uH
